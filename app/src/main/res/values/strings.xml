@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="personal_greeting"> Hello,Rafael Juwon</string>
+</resources>
